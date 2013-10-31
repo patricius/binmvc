@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2012\Projects\binary\binary\bin\Debug\binary.exe.config
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\binary\binary\bin\Debug\binary.exe
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\binary\binary\bin\Debug\binary.pdb
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\binary\binary\obj\Debug\binary.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\binary\binary\obj\Debug\binary.exe
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\binary\binary\obj\Debug\binary.pdb

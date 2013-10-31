@@ -1,0 +1,24 @@
+﻿@model binarymvc.Models.binaryoutput
+
+@{
+    ViewBag.Title = "Results";
+}
+
+<h2>Results</h2>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Results</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <p>Binary: @Model.Binary.ToString()</p>
+      
+            <p>@Html.ActionLink("Convert again!", "GetInput", "Home")</p>
+        </div>
+    </div>
+</body>
+</html>
